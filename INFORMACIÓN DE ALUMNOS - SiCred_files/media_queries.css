@@ -1,0 +1,146 @@
+@media (min-width: 350px) and (max-width: 360px){
+    .empldImg{
+        top: 49.5%;
+        right: 21%;
+    }
+    
+    .empldTexto{
+        position: absolute; 
+        right: 15%;
+    }
+    
+    .empldTexto > p{
+        font-size:16px;
+        font-weight:bold;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 415px){
+    #navbar{
+        width: 120%;
+    }
+
+    #footer{
+        width: 120%;
+        margin-bottom: 12%;
+    }
+
+    .main-footer{
+        width: 120%;
+    }
+    table.table-bordered{
+        width: 350px !important;
+        height: auto !important;
+        margin-left: 0 !important;
+    }
+    h3.cred{
+        font-size: 18px !important;
+    }
+    h4.cred{
+        font-size: 14px !important;
+    }
+    #logo{
+        height: 50px !important;
+    }
+    #logo_sep_info_alum{
+        width: 150px !important;
+        height: auto !important;
+        margin: 3% 0 0 -15% !important;
+    }
+    #logo_sicred_info_alum{
+        width: auto;
+        display: inline;
+    }
+
+    #logo_sep_login {
+        width: 150px !important;
+        height: auto !important;
+        margin-left: -45% !important;
+    }
+
+    #logo_bach_login {
+        width: 80px !important;
+        height: auto !important;
+        margin-left: 30% !important;
+        margin-top: -30% !important;
+    }
+
+    #logo_sicred_login {
+        height: 40px !important;
+        width: auto !important;
+        margin-top: -22% !important;
+        margin-left: 75% !important;
+    }
+
+    #div_encabezados{
+        margin-left: 50%!important;
+    }
+
+    #logo_sep{
+        height: 25px!important;
+        width: auto!important;
+    }
+    #logo_bach{
+        height: 25px!important;
+        width: auto!important;
+        margin: -15% 0 0 60%!important;
+    }
+    #logo_sicred{
+        height: 25px!important;
+        margin-left: 90%!important;
+        margin-top: -15%!important;
+    }
+    .breadcrumb{
+        margin-top: -8%!important;
+    }
+    #nav_logo_sicred{
+        height: 30px!important;
+        margin-top: 0!important;
+        margin-left: 0!important;
+    }
+}
+@media only screen and (min-width: 600px) and (max-width: 1000px){
+    #encabezados{
+        width: 100%;
+    }
+    #div_encabezados{
+        margin-left: 60%!important;
+    }
+
+    #logo_sep{
+        height: 25px!important;
+        width: auto!important;
+    }
+    #logo_bach{
+        height: 25px!important;
+        width: auto!important;
+        margin: -15% 0 0 60%!important;
+    }
+    #logo_sicred{
+        height: 25px!important;
+        margin-left: 90%!important;
+        margin-top: -15%!important;
+    }
+    .breadcrumb{
+        margin-top: -6%!important;
+    }
+    #logo_sep_info_alum{
+        width: 150px !important;
+        height: auto !important;
+        margin: 3% 0 0 -15% !important;
+    }
+    #logo_sicred_info_alum{
+        height: 40px;
+        width: auto;
+        margin-top: -15%;
+        margin-left: 20%;
+        display: inline;
+    }
+}
+@media (min-width: 1390px){
+    #logo_sep_login{
+        width: 330px;
+        height: auto;
+        margin-left: -2%;
+    }
+}
